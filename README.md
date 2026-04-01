@@ -192,6 +192,7 @@ Ports opened:
 | Apache     | 8082 |
 | Grafana    | 3000 |
 | Prometheus | 9090 |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3375ed84-c5cd-4815-bffa-1dceafb5a512" />
 
 ---
 
