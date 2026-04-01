@@ -207,7 +207,7 @@ Ports opened:
 
 ### Prometheus Targets
 
-![Prometheus](screenshots/prometheus.png,png)
+![Prometheus](screenshots/prometheus.png.png)
 
 ### Grafana Dashboard
 
