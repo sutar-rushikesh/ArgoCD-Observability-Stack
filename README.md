@@ -199,19 +199,19 @@ Ports opened:
 
 ### ArgoCD Applications
 
-![ArgoCD Apps](screenshots/argocd-apps.png)
+![ArgoCD Apps](screenshots/argocd-apps.png.png)
 
 ### Kubernetes Cluster & Pods
 
-![Pods](screenshots/argocd-pods.png)
+![Pods](screenshots/argocd-pods.png.png)
 
 ### Prometheus Targets
 
-![Prometheus](screenshots/prometheus.png)
+![Prometheus](screenshots/prometheus.png,png)
 
 ### Grafana Dashboard
 
-![Grafana](screenshots/grafana-dashboard.png)
+![Grafana](screenshots/grafana-dashboard.png.png)
 
 ---
 
